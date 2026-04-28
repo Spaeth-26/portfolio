@@ -265,3 +265,13 @@ data/
 *.pkl
 
 notebooks/playbook_stroke_rate.ipynb
+notebooks/01_exploration_Energy_Demand_Weather.ipynb
+notebooks/01_exploration_GER_Power_Consumption.ipynb
+notebooks/01_exploration_Weather_Dataset copy.ipynb
+notebooks/01_exploration_Weather_Dataset.ipynb
+notebooks/01_exploration_Weather_picnic.ipynb
+notebooks/01_exploration_World_Weather_Repository.ipynb
+notebooks/european-cities-weather-picnic-prediction.ipynb
+notebooks/weather-based-renewable-energy-prediction-model.ipynb
+notebooks/open-meteo_API.ipynb
+notebooks/.cache.sqlite
