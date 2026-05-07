@@ -275,3 +275,4 @@ notebooks/european-cities-weather-picnic-prediction.ipynb
 notebooks/weather-based-renewable-energy-prediction-model.ipynb
 notebooks/open-meteo_API.ipynb
 notebooks/.cache.sqlite
+notebooks/model_*.joblib
